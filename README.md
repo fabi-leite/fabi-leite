@@ -1,14 +1,14 @@
-## Oi sou Felipe 👋
+## Oi sou Fabielly👋
 
 - 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Python, SQL, Pandas
+- 🌱 Estudando Python,Power BI, SQL, Pandas
 - 👯 Projetos Reais
 
 
 <div>
-<a href="https://beacons.ai/felipecsousa2000">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecsousa2000&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsousa2000&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
+<a href="https://beacons.ai/fabi-leite">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabi-leite&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabi-leite&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
 <div style="display: inline_block"><br>

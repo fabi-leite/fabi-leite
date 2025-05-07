@@ -1,8 +1,8 @@
 ## Oi sou Fabielly👋
 
 - 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Python,Power BI, SQL, Pandas
-- 👯 Projetos Reais
+- 🌱 Estudando Python,Power BI, SQL, Pandas, Ling. R
+- 👯 Projetos Reais em Construção.
 
 
 <div>
